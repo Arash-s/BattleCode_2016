@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/battlecode-mapeditor.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest-core.jar"/>
+	<classpathentry kind="lib" path="lib/junit.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/battlecode-scaffold/lib/junit.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/scala-compiler.jar"/>
+	<classpathentry kind="lib" path="lib/scala-library.jar"/>
+	<classpathentry kind="lib" path="lib/scala-parser-combinators_2.11.jar"/>
+	<classpathentry kind="lib" path="lib/scala-reflect.jar"/>
+	<classpathentry kind="lib" path="lib/scala-xml_2.11.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_25"/>
+	<classpathentry kind="lib" path="C:/Users/Aeive/Downloads/battlecode.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
